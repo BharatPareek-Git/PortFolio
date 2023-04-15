@@ -1,0 +1,44 @@
+/*Change Brand Font*/
+.navbar-brand
+{
+	font-family: 'Ubuntu', sans-serif;	
+	font-weight: bold;
+}
+
+/*Change Nav Color*/
+.navbar #myMenu .custom-nav .nav-item a
+{	
+	color: #fff;
+} 
+
+/*Change Nav Hover Color*/
+.navbar #myMenu .custom-nav .nav-item a:hover
+{	
+	color: #F0AAB1;
+	text-decoration: none;
+}
+
+/*Footer Display Block*/
+footer
+{
+	display: block;
+}
+
+/*Remove Border Radius from NavBar*/
+.navbar
+{
+	border-radius: 0;
+}
+
+/*About font Weight*/
+.about
+{
+	margin-top: 20px;
+	font-weight: bold;	
+}
+
+/*Programmer font weight*/
+.programmer
+{
+	font-weight: bold;	
+}

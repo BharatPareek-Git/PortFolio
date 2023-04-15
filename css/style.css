@@ -1,0 +1,43 @@
+/*Change Brand Font*/
+.navbar-brand
+{
+	font-family: 'Ubuntu', sans-serif;	
+	font-weight: bold;
+}
+
+/*Change Nav Color*/
+.navbar #myMenu .custom-nav .nav-item a
+{	
+	color: #fff;
+} 
+
+/*Change Nav Hover Color*/
+.navbar #myMenu .custom-nav .nav-item a:hover
+{	
+	color: #F0AAB1;
+	text-decoration: none;
+}
+
+/*Footer Display Block*/
+footer
+{
+	display: block;
+}
+
+/*Make Heaser Image Responsive*/
+.backgroundImage
+{
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 90vh;
+	border-radius: 0px;
+} 
+
+/*Remove Border Radius from NavBar*/
+.navbar
+{
+	border-radius: 0;
+}
+/*font-family: 'Ubuntu', sans-serif;*/
